@@ -4,15 +4,15 @@ REQUIREMENTS:
   1. Create a react app without the use of local state, and instead, replace it with redux.
   2. Using the data provided, create a list view that can display data in an efficient manner.  
   3. From there, create an action that will:
-    3A. Allow you to delete a comment from the list.
-    3b. Maintain a record of how many comments you have deleted so far
-    3c. BONUS: If you have time, allow a reason to be added as to why you are deleting the comment.
+    <br>A. Allow you to delete a comment from the list.
+    <br>b. Maintain a record of how many comments you have deleted so far
+    <br>c. BONUS: If you have time, allow a reason to be added as to why you are deleting the comment.
   4. In a seperate view, create a simple vertical bar-chart that shows:
-    4a. How many comments you have deleted and are no longer active
-    4b. How many comments are still active
-    4c. How many comments Sir Moddy McModerator hates
-    4d: BONUS: Under said bar chart, create a list of the reasons the comments were deleted, that reference the comment's original id.
-
+    <br>a. How many comments you have deleted and are no longer active
+    <br>b. How many comments are still active
+    <br>c. How many comments Sir Moddy McModerator hates
+    <br>d: BONUS: Under said bar chart, create a list of the reasons the comments were deleted, that reference the comment's original id.
+<br><br>
 KEEP IN MIND:
   1. Make sure there is a way to navigate between the two views.
   2. This app should function properly in at least the latest Firefox, Chrome and Edge Browsers (even though Sir Moddy McModerator hates Edge)
